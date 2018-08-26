@@ -1,0 +1,10 @@
+{
+  "Name": "lightpics.net",
+  "RequestURL": "https://lightpics.net/api/1/upload",
+  "FileFormName": "source",
+  "Arguments": {
+    "key": "7c6238e8f24c19454315d5dc812d4b93",
+    "format": "redirect"
+  },
+  "ResponseType": "RedirectionURL"
+}
